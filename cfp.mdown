@@ -1,0 +1,35 @@
+
+
+#  Call for Papers: The European Journal of Cultural Studies
+Special issue on Data Mining/Analytics
+
+# Editors: Mark Andrejevic (University of Queensland, Australia); Alison Hearn (University of Western Ontario, Canada); Helen Kennedy (University of Leeds, UK)
+
+The widespread use of social media has given rise to new forms of monitoring, mining and aggregation strategies designed to monetize the huge volumes of data such usage produces. Social media monitoring and analysis industries, experts and consultancies have emerged offering a broad range of social media intelligence and reputation management services. Such services typically involve a range of analytical methods (sentiment analysis, opinion mining, social network analysis, machine learning, natural language processing), often offered in black-boxed proprietary form, in order to gain insights into public opinion, mood, networks and relationships and identify potential word-of-mouth influencers. Ostensibly, these various forms of data mining, analytics and machine learning also are paving the way for the development of a more intelligent or ‘semantic’ Web 3.0, offering a more ‘productive and intuitive’ user experience. As commercial and non-commercial organisations alike seek to monitor, influence, manage and direct social media conversations, and as global usage of social media expands, questions surface that challenge celebratory accounts of the democratizing, participatory possibilities of social media. Remembering that Web 2.0 was always intended as a business manifesto – O’Reilly’s early maxims included, after all, ‘data is the next Intel inside’, ‘users add value’ and ‘collaboration as data collection’ – we need to interrogate social media not only as communication tools, but also as techno-economic constructs with important implications for the management of populations and the formation of subjects. Data mining and analytics are about much more than targeted advertising: they envision new strategies for forecasting, targeting, and decision making in a growing range of social realms (employment, education, health care, policing, urban planning, epidemiology, etc.) with the potential to usher in new, unaccountable, and opaque forms of discrimination, sorting, inclusion and exclusion. As Web 3.0 and the ‘big data’ it generates moves inexorably toward predictive analytics and the overt technocratic management of human sociality, urgent questions arise about how such data are gathered, constructed and sold, to what ends they are deployed, who gets access to them, and how their analysis is regulated (boyd and Crawford 2012).
+
+This special issue aims to bring together scholars who interrogate social media intelligence work undertaken in the name of big data, big business and big government. It aims to draw together empirically-grounded and theoretically-informed analyses of the key issues in contemporary forms of data mining and analytics from across disparate fields and methodologies. . Contributions are invited that address a range of related issues. Areas for consideration could include, but are not limited to:
+
+    - Political economy of social media platforms
+    - Algorithmic culture
+    - User perspectives on data mining
+    - The politics of data visualisation
+    - Big data and the cultural industries
+    - Data journalism
+    - The social life of big data methods
+    - Inequalities and exclusions in data mining
+    - Affective prediction and control
+    - Data mining and new subjectivities
+    - Ethics, regulation and data mining
+    - Conceptualising big/data/mining
+    - Social media intelligence at work
+    - Social media and surveillance
+    - Critical histories of data mining, sorting, and surveillance
+
+Prospective contributors should email an abstract of 500-700 words to the issue editors by 9th December 2013 (to h.kennedy@leeds.ac.uk). Full articles should be submitted to Helen Kennedy (h.kennedy@leeds.ac.uk) by 12th May 2014. Manuscripts must be no longer than 7,000 words. Articles should meet with The European Journal of Cultural Studies’ aim to promote empirically based, theoretically informed cultural studies; essayist discussion papers are not normally accepted by this journal. All articles will be refereed: invitation to submit a paper to the special issue in no way guarantees that the paper will be published; this is dependent on the review process.
+
+Details:
+Abstract deadline: 9th December 2013 (to h.kennedy@leeds.ac.uk);
+Decisions on abstracts communicated by 13th January 2014;
+Article submission deadline: 12th May 2014 (to h.kennedy@leeds.ac.uk);
+Final submission/review process complete: 13th October 2014;
+For publication in 2015.

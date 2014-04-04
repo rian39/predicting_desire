@@ -1,0 +1,93 @@
+# abstract
+
+## Predicting desire: emerging logics of difference, association and belonging in social media data mining
+
+
+## Abstract
+
+Understanding data mining and data analytics depends on making sense of the basic ways in which the techniques and practices of data mining deal with relations of difference and sameness, associations and groupings, and forms of inclusion and belonging. The social, technical, commercial, institutional and political value of analytics derives from these dealings.  Drawing on software studies, and cultural studies of science and technology, this article explores how data mining, particularly in the core techniques of machine learning, deals with relations, groupings and membership in order to structure, manage and intensify the relations, groupings and forms of membership typical of social media.
+
+In order to do this, the article  delineates a very large body of technical literature: several decades of engineering and scientific articles and books on automating the construction of classifiers, predictive models and learning machines. This literature underpins predictive and analytic practice in social media settings.  This kind of literature is not normally discussed in cultural and media studies writing.   For the purposes of the discussion, the motivation in exploring this literature is to highlight some of the key inventions, practices and techniques that have animated the highly dynamic field of machine learning. In the  intensively cognitive domain of data mining and machine learning practice, however, scientific and technical literatures provide highly relevant empirical material to work with. The genealogy of important techniques of grouping  such as the 'A-Priori' algorithm used in recommendation systems or classification techniques such as decision tree algorithms used in predictive behaviour modelling  can be traced here. At a very concrete level, these publications attest to a flow of techniques and people between academic research settings and  business settings such as social media. Technical publications also provide otherwise hard-to-find descriptions of how a particular media platform monitors, amplifies or otherwise reshapes the data it harvests. At a more abstract level, this body of literature also expresses, albeit in technical language that needs to be read diffractively (Haraway), underlying yet highly idealised intuitions about difference,association and membership that carry across  the many different domains in which machine learning techniques are put to work. 
+
+In order to get some sense of what happens as data analytic techniques and practices circulate, the second main section of the paper explores ways of talking about these techniques at industry conference events  such as 'Predictive Analytics World' and 'Strata: Making Data Happen.'  These events bring together a mixture of commercial proponents, government users, and industry and academic researchers. They  speak about their experience and often enthusiastically present new techniques, tools and products for data mining. These events promote the movement of techniques  between different settings.  The changing topics of these events over time offers a profile of shifts in investment, fashion and practice in data-mining, and the more general problematization of agency and value creation with which it is associated.  The traits and tendencies we might detect here include an increasing indistinction between machine and human learning, and an ongoing and multi-stranded attempt to intervene directly in social relations and associations  at a fine-grained level through predictively targeted units of experience (whether in recommendation systems; matching systems;  voice, text, face and gesture recognition; a proliferation of multi-dimensional time-space gradients replacing the clocktime uniformity of previous media systems; or in induced viralities that are increasingly part and parcel of social media platforms).  These conferences also constitute an ongoing collective discourse on how emerging forms of sameness and difference, of association and grouping, and of inclusion and belonging  associations differ from the  patterns of belonging, inclusion, identification and attachment that have defined subject positions and cultural forms of life. 
+
+The  contrasts and connections between these two masses of empirical material from science and business might allow us to better identify what is changing and what is reproduced, what forms of agency are ossified and what forms of agency become contested in machine-learned worlds. We might begin to ask whether and how the forms of accumulation of data effectively dispossess some people of forms of property, even as they produce it.  Analysis of the techniques of association has the potential to help illuminate the contemporary mechanisms of economic value creation, forms of accumulation by dispossession and emergent dispositifs whose relationality and dynamics engender altered, somewhat more limited but also new forms of subjectivity linked together by flows of data.  It is important to also analyse here what evades and remains irreducible to data analytics. What forms of leakage and slippage  afflict data-mining and undercut its own extraction of relational or predictive value?
+
+
+## possible titles
+
+### Association as accumulation: when machines and people click together
+### Logics of difference, grouping and belonging in social media data mining
+
+
+
+## Ideas
+
+- build it around the contrast between skills (Human -- the linkedin case) and robots (the perlich case); this contrast is  interesting because of the different ways they link humans/non-humans in various loopy ways;
+	- 'data amplifies desire' -- the LinkedIn motto - a flywheel of data and value -- let's say you work at google; it's the web of all the other information that will help us; trying to do for economics of skills what Facebook does for socialgraph or wikipedia does for topics. 'we're doing it for this economic graph'
+- The agenda is not unblackboxing -- we can do that because people do it all the time for each other
+- The agenda is not some magical power inherent to the algorithms/techniques -- a sketch of the main models -- svm, dec tree, nn, etc.
+	- actually counter to algorithm because analytics work  involves  a lot of playing around with models
+- The point here is to see how they configure the world: what does a data-mined or machined world look/feel/sound like; 
+- - arvidsson on reputation and why that is important for machine learning
+- Methods: datamine PAW, Strata and ACM KDD for topics, people, organisations, techniques and applications. Build some networks for them.
+	- Predictive Analytics World conferences -- go through them year by year -- look at how they have changed; the - mixture of things they do; the range of participants - academic, gov, health, insurance, advertising, logistics: how to address the breadth of these. Goes back to 2009
+	- Strata ... like PAW, but with more public bodies involved -- starts around 2011
+		-  KDD  - somewhere in between, but with more academics? Goes back to 1989; computer science, but full of industry people, or people who move between academic and private research
+- human machine diff is harder to see
+	- Claudia Perlich on the botnets in advertising: distinguishing humans and machine -- see Strata talk
+- hotspots where actions are 'lifted out', and where senses are reorganised (hearing/speaking/seeing/touching), and biosensed (somewhat); reading, viewing; 
+	- Hilary Mason on we know what you read ... 
+- time is shaped differently: not through regular rhythms of the day-night, or clocktime, or even media event-time, but by multi-dimensional time gradients	
+- zones of slippage around agency and work as represented in competitions and leakage issues
+	- Claudia Perlich on competitions and data leakage: how competitions are won by 'cheating'
+	- On whether the algorithms are blackboxed or not ...  they are not
+- The governance of models -- can they be regulated and how; who gets to game them and who doesn't; gamification.
+	- DunneRaby
+	- Fico: credit reference and fraud detection;
+- Implications: on whether cultural studies will start to treat texts, images and people using the same techniques; 
+
+
+## old stuff
+
+The first archive comes from academic/industry research publications and papers on machine learning techniques in fields such as computer science, electrical engineering, operations research and management science. This large and complicated body of technical literature, with all its citational complexity, is highly significant because it directly shapes nearly all of the techniques of data-mining and machine learning currently in use  in  business analytics, commercial data-mining and  predictive analytics. The genealogy of important techniques of association  such as the 'A-Priori' algorithm or decision tree algorithms  in data mining, machine learning and analytics as applied to recommendation systems and predictive modelling of behaviour over three decades can be read here. Consequently, the traits of a machine-learned world, with its interest in error rates, data dimensionality, feature selection and optimisation of predictive power can be read from this literature given appropriate methods of reading.  Drawing on an archive of almost 100,000 research articles on machine learning, data-mining, and pattern recognition over three decades, this part of the paper will outline the epistemic cultures of pattern recognition and classification systems both in terms of institutional and economic positions, and in terms of the forms of problematisation and conceptual equipment they develop. 
+
+We might understand the growing presence and visibility of machine learning, data-mining and predictive analytics techniques in business, entertainment, security, transport infrastructures, a gamut of sciences and technologies from the perspective of how they make associations, and how these associations accumulate. The theoretical stake here is the notion of association, an important term in much social and cultural theory. The notion of association runs through many accounts of groups, identity, belonging and collective.   The paper will draw on two overlapping archives to identify some of the important traits and tendencies in a world where associations are increasingly the product of machine-learning, data-mining or predictive modelling, and indeed where it is increasingly difficult to discriminate between human and machine-made associations. 
+
+
+
+## References
+
+- Boyd/Crawford
+- Andrejevic
+- David Beer
+- Ruppert
+ - The amsterdam piece on bots in wikipedia
+
+
+## Older abstract
+
+## On the links between advertising, credit and data-mining
+
+## Key points
+
+- predictive analytics as the main focus
+- shift from batch to online: Lin on this -- the data mining is part of the workflow, not something added on
+- shift from advertising to data itself as the source of value: the climate corporation 
+- arvidsson on reputation
+
+
+## Examples
+Dunne Raby 
+Fico
+Twitter and data-mining
+Pig, Mahout, etc -- the infrastructures
+Claudia Perlich and the advertising botnet case: interesting examples here ... 
+The Climate Corporation and Climate.com  and its purchase by Monsanto -- connections between free data, science, insurance, food, computing infrastructure, etc http://bits.blogs.nytimes.com/2011/10/11/big-data-in-the-dirt-and-the-cloud/?_r=0
+Strata conferences
+- predictionio -- for how it tries to get people to use it -- see also chapter of datamining book on this with analysis of recommendation engine; Simon Chan + blog examples of what to predict/recommend
+- google analytics mooc - course training people to do this stuff
+- domingos 2012 for an engineer viewpoint
+Pete Skomoroch LinkedIn talk   on skills, reputation, search: http://datawrangling.com/skills-reputation-search-lucene 'reputation is the key' - the 401k world -- open source - 'connect the worlds professionals'
+
+## References
