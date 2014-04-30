@@ -10,3 +10,6 @@
 - domingos 2012 for an engineer viewpoint
 - linked-in video on induced virality
 - churchill club talks from Jeremy Howard, Norvig and Ayuhda
+- media6degrees
+- morningstar analytics
+- 
