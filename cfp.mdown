@@ -13,7 +13,7 @@ This special issue aims to bring together scholars who interrogate social media 
     - Algorithmic culture
     - User perspectives on data mining
     - The politics of data visualisation
-    - Big data and the cultural industries
+    - Big data and the cultural industriest
     - Data journalism
     - The social life of big data methods
     - Inequalities and exclusions in data mining
