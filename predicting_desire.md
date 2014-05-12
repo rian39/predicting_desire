@@ -3,17 +3,6 @@
 # The production of prediction: what does machining learning want?
 
 
-
-Adrian Mackenzie
-Sociology, Lancaster University
-Bailrigg, UK, LA14YD
-a.mackenzie@lancaster.ac.uk
-
-7 May 2014
-
-
-\newpage 
-
 ## Abstract
 
 The  production of prediction in retail, media, finance, science, industry, security and government increasingly depends on techniques known as advanced analytics or  machine learning. How is it that very generic  techniques can promise to predict with great specificity what differences matter or what people want? The forms of material action,  narratives and problematizations of  algorithmic modelling techniques such as logistic regression, decision trees or Naive Bayes classifiers  have become generic components in many different settings.  The  process of generalization that currently mobilises so much infrastructural reconfiguration and speculation around data  expresses a desire to render the world in which  movement through data becomes the principal intersection of power relations, economic value and valid knowledge.  If the generalization of predictive desire normalises differences at new levels of abstraction, it  potentially gives rise to new aggregate  individuations that elude full representation and capture in the very models that give rise to them.
